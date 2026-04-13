@@ -1,0 +1,86 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+
+header {
+    background-color: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #cccccc;
+}
+
+h2 {
+    color: #0044cc;
+    text-align: center;
+}
+
+h3 {
+    color: #0044cc;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.seccion-imagen {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.seccion-imagen-partido {
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+}
+p{
+    text-align: center;
+}
+.jugador {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
