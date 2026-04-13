@@ -27,6 +27,6 @@ Para ver el proyecto, simplemente hay que descargar los archivos y abrir el arch
 
 ---
 
-**Nombre:** Juan  
-**Curso:** 5to Computación - IPM  
+**Nombre:** Luca seijas 
+**Curso:** 6to Computación - IPM  
 **Año:** 2026
